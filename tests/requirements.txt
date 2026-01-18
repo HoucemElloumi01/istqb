@@ -1,0 +1,22 @@
+# Selenium WebDriver for browser automation
+selenium==4.16.0
+
+# Pytest framework and extensions
+pytest==7.4.3
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+pytest-timeout==2.2.0
+pytest-rerunfailures==13.0
+
+# WebDriver management
+webdriver-manager==4.0.1
+
+# Environment configuration
+python-dotenv==1.0.0
+
+# Utilities
+Faker==22.0.0
+openpyxl==3.1.2
+
+# Screenshot and reporting
+Pillow==12.1.0
